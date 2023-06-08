@@ -2,8 +2,8 @@
 layout: post
 title: " Spring 기본 특성"
 author: kimcno3
-categories: java spring
-tags: java spring
+categories: spring
+tags: spring
 ---
 
 ### Spring이란?
