@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "참조자료형 형변환"
-author: kimcno3
+
 categories: java
 tags: java
 ---

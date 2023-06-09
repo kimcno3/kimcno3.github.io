@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "클래스 변수와 인스턴스 변수의 차이"
-author: kimcno3
+
 categories: java
 tags: java
 ---

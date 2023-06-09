@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "변수 종류 별 쓰레드 동기화 필요성"
-author: kimcno3
+
 categories: java
 tags: java
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "super 예약어는 부모 객체를 가르킨다"
-author: kimcno3
+
 categories: java
 tags: java
 ---

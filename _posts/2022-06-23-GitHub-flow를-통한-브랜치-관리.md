@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[soldout] GitHub flow를 통한 브랜치 관리"
-author: kimcno3
+
 categories: f-lab
 tags: f-lab project1
 ---

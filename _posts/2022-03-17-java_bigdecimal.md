@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "BigDecimal 클래스를 사용하는 이유"
-author: kimcno3
+
 categories: java
 tags: java
 ---

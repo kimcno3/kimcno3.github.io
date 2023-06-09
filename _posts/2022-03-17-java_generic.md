@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "제네릭 타입을 사용하는 이유"
-author: kimcno3
+
 categories: java
 tags: java
 ---

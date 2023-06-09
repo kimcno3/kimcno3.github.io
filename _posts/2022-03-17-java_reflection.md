@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Reflection API"
-author: kimcno3
+
 categories: java
 tags: java
 ---

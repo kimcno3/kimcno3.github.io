@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Collection Framework"
-author: kimcno3
+
 categories: java
 tags: java
 ---

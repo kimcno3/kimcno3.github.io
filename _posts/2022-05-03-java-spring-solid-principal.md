@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SOLID 원칙"
-author: kimcno3
+
 categories: java
 tags: java
 ---

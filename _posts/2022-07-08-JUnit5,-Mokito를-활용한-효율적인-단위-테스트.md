@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[soldout] JUnit5, Mockito를 활용한 효율적인 단위 테스트"
-author: kimcno3
+
 categories: f-lab
 tags: f-lab project1
 ---

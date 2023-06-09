@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "equals() 와 hashcode()"
-author: kimcno3
+
 categories: java
 tags: java
 ---

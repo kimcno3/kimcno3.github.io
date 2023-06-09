@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Set & Map"
-author: kimcno3
+
 categories: java
 tags: java
 ---

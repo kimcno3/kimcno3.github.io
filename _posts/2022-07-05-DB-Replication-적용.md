@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[soldout] DB Replication 적용"
-author: kimcno3
+
 categories: f-lab
 tags: f-lab project1
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[football] @AuthenticationPrincipal을 활용한 로그인 회원 정보 조회"
-author: kimcno3
+
 categories: f-lab
 tags: f-lab project2
 ---

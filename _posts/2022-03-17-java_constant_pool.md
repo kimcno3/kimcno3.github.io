@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "String Constant pool"
-author: kimcno3
+
 categories: java
 tags: java
 ---

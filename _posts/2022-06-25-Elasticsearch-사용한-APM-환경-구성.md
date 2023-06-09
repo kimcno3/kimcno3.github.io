@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[soldout] Elasticsearch 사용한 APM 환경 구성"
-author: kimcno3
+
 categories: f-lab
 tags: f-lab project1
 ---

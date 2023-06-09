@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[football] Github Actions를 활용한 CI/CD"
-author: kimcno3
+
 categories: f-lab
 tags: f-lab project2
 ---

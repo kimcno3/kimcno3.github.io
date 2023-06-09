@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "오버플로우(Intager Overflow)"
-author: kimcno3
+
 categories: java
 tags: java
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Javascript 기초
 subheading: 
-author: kimcno3
+
 categories: javascript
 tags:  javascript
 ---

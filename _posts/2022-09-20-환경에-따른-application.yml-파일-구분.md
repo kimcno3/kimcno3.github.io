@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[football] 환경에 따른 application.yml 파일 구분"
-author: kimcno3
+
 categories: f-lab
 tags:  f-lab project2
 published: true

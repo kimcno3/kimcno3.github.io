@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "String, StringBuffer, StringBuilder 클래스"
-author: kimcno3
+
 categories: java
 tags: java
 ---

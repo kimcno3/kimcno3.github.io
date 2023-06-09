@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "String 주요 메소드 정리"
-author: kimcno3
+
 categories: java
 tags: java
 ---
