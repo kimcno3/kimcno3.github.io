@@ -6,10 +6,6 @@ categories: spring
 tags:  spring
 ---
 
-# Spring Batch
-
----
-
 ## 요구사항(문제점)
 배치 코드가 Spring Batch로 구현되어 있었고 Spring Batch에 대한 전반적인 이해가 필요했습니다.
 
