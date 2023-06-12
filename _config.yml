@@ -23,7 +23,7 @@ title: kimcno3 # the main title
 tagline: 하루하루 쌓아가는 개발 일지 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  ""
+  "하루하루 쌓아가는 개발 일지"
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://kimcno3.github.io/"
