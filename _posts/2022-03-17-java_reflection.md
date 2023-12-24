@@ -2,8 +2,8 @@
 layout: post
 title: "Reflection API"
 
-categories: java
-tags: java
+categories: JAVA
+tags: JAVA
 ---
 
 ## Reflection API(리플렉션)이란?

@@ -2,8 +2,8 @@
 layout: post
 title: "super 예약어는 부모 객체를 가르킨다"
 
-categories: java
-tags: java
+categories: JAVA
+tags: JAVA
 ---
 
 `super` 예약어는 부모 객체를 가르킨다고 하는데 JVM의 메모리 영역에서 상속 클래스가 할당되는 과정을 보면서 알아가 보자.

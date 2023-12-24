@@ -2,8 +2,8 @@
 layout: post
 title: "String, StringBuffer, StringBuilder 클래스"
 
-categories: java
-tags: java
+categories: JAVA
+tags: JAVA
 ---
 
 ## String

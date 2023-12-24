@@ -2,8 +2,8 @@
 layout: post
 title: "equals() 와 hashcode()"
 
-categories: java
-tags: java
+categories: JAVA
+tags: JAVA
 ---
 
 ## equals() 오버라이딩

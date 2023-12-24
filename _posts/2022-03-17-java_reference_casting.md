@@ -2,8 +2,8 @@
 layout: post
 title: "참조자료형 형변환"
 
-categories: java
-tags: java
+categories: JAVA
+tags: JAVA
 ---
 
 ### ✔️ 참조자료형 형변환 특징

@@ -2,8 +2,8 @@
 layout: post
 title: "클래스 변수와 인스턴스 변수의 차이"
 
-categories: java
-tags: java
+categories: JAVA
+tags: JAVA
 ---
 
 ### **예제 코드**

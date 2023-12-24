@@ -2,8 +2,8 @@
 layout: post
 title: "Set & Map"
 
-categories: java
-tags: java
+categories: JAVA
+tags: JAVA
 ---
 
 ## HashSet

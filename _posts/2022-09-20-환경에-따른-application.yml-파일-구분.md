@@ -2,8 +2,8 @@
 layout: post
 title: "[football] 환경에 따른 application.yml 파일 구분"
 
-categories: f-lab
-tags:  f-lab 
+categories: F-lab
+tags: F-lab 
 published: true
 ---
 

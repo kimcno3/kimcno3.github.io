@@ -2,8 +2,8 @@
 layout: post
 title: "변수 종류 별 쓰레드 동기화 필요성"
 
-categories: java
-tags: java
+categories: JAVA
+tags: JAVA
 ---
 
 JVM 내에서 하나의 쓰레드가 생성되면 각각의 쓰레드는 고유의 Stack, Pc register, Native Method Area를 가진다. 대신 Heap 과 Method 영역은 하나의 공간을 공유하는 구조로 설계되어 있다.

@@ -2,8 +2,8 @@
 layout: post
 title: "오버플로우(Intager Overflow)"
 
-categories: java
-tags: java
+categories: JAVA
+tags: JAVA
 ---
 
 ## 오버 플로우란?

@@ -2,8 +2,8 @@
 layout: post
 title: "[football] Github Actions를 활용한 CI/CD"
 
-categories: f-lab
-tags: f-lab 
+categories: F-lab
+tags: F-lab 
 ---
 
 ## # 문제점
@@ -13,7 +13,7 @@ tags: f-lab
 ## # 해결방안
 ***
 ### 1. Github Actions
-> Github Actions에 대한 정보와 특징은 [CI 툴로 Github Actions를 선택했던 이유](http://localhost:4000/f-lab/2022/06/24/Github-Actions%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-CI-%EA%B5%AC%EC%84%B1.html)와 동일합니다.
+> Github Actions에 대한 정보와 특징은 [CI 툴로 Github Actions를 선택했던 이유](http://localhost:4000/F-lab/2022/06/24/Github-Actions%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-CI-%EA%B5%AC%EC%84%B1.html)와 동일합니다.
 
 이번 글에선 Github Actions가 구성하는데 알아야 했던 핵심 개념들에 대해 적어봤습니다.
 

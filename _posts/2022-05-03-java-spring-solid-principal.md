@@ -2,8 +2,8 @@
 layout: post
 title: "SOLID 원칙"
 
-categories: java
-tags: java
+categories: JAVA
+tags: JAVA
 ---
 
 객체지향의 4대 특성은 **객체지향이 개발자에게 줄 수 있는 장점**이라면 SOLID 원칙은 **이러한 강점을 최대한 살리기 위해 지켜야할 원칙**을 제시한 개념이다.

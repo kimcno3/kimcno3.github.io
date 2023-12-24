@@ -2,8 +2,8 @@
 layout: post
 title: "Collection Framework"
 
-categories: java
-tags: java
+categories: JAVA
+tags: JAVA
 ---
 
 ### Collection Framework란?

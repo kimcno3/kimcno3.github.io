@@ -2,8 +2,8 @@
 layout: post
 title: "[soldout] Github Actions를 활용한 CI 구성"
 
-categories: f-lab
-tags: f-lab 
+categories: F-lab
+tags: F-lab 
 ---
 
 ## # 문제점

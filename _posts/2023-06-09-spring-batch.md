@@ -3,7 +3,7 @@ layout: post
 title: Spring Batch
 subheading:
 categories: Spring
-tags:  Spring
+tags: Spring
 ---
 
 ## 요구사항(문제점)

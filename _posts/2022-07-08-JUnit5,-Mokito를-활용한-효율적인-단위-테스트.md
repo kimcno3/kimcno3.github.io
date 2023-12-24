@@ -2,8 +2,8 @@
 layout: post
 title: "[soldout] JUnit5, Mockito를 활용한 효율적인 단위 테스트"
 
-categories: f-lab
-tags: f-lab 
+categories: F-lab
+tags: F-lab 
 ---
 
 ## # 문제점

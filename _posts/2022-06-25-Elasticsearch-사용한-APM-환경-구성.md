@@ -2,8 +2,8 @@
 layout: post
 title: "[soldout] Elasticsearch 사용한 APM 환경 구성"
 
-categories: f-lab
-tags: f-lab 
+categories: F-lab
+tags: F-lab 
 ---
 
 ## # 문제점

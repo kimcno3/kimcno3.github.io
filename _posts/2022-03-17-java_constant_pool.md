@@ -2,8 +2,8 @@
 layout: post
 title: "String Constant pool"
 
-categories: java
-tags: java
+categories: JAVA
+tags: JAVA
 ---
 
 JAVA에서 String 객체를 생성하는 방법은 두가지가 있다.

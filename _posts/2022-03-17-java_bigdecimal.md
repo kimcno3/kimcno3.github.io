@@ -2,8 +2,8 @@
 layout: post
 title: "BigDecimal 클래스를 사용하는 이유"
 
-categories: java
-tags: java
+categories: JAVA
+tags: JAVA
 ---
 
 JAVA에서 기본자료형으로 활용되는 float나 double을 사용하지 않고 BigDecimal 클래스를 사용하는 이유는 BigDecimal 클래스를 활용하면 실수를 계산하는데 더 정확한 계산이 가능하다 한다.

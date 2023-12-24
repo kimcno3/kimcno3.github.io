@@ -2,8 +2,8 @@
 layout: post
 title: "[football] Redis Cluster와 Replication 구조를 통한 분산 저장이 가능한 설계 구현"
 
-categories: f-lab
-tags: f-lab 
+categories: F-lab
+tags: F-lab 
 ---
 
 ## # 문제점

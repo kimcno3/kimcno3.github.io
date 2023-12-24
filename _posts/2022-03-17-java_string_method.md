@@ -2,8 +2,8 @@
 layout: post
 title: "String 주요 메소드 정리"
 
-categories: java
-tags: java
+categories: JAVA
+tags: JAVA
 ---
 
 > **자세한 설명 및 매개변수 종류는 [API](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/lang/String.html#matches(java.lang.String)) 참고**
