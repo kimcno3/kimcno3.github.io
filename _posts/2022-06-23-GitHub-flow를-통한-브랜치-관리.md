@@ -3,7 +3,7 @@ layout: post
 title: "[soldout] GitHub flow를 통한 브랜치 관리"
 
 categories: f-lab
-tags: f-lab project1
+tags: f-lab 
 ---
 
 ## # 문제점

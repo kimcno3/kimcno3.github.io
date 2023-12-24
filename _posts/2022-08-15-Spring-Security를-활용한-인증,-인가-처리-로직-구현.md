@@ -3,7 +3,7 @@ layout: post
 title: "[football] Spring Security를 활용한 인증, 인가 처리 로직 구현"
 
 categories: f-lab
-tags: f-lab project2
+tags: f-lab 
 ---
 
 ## # 문제점

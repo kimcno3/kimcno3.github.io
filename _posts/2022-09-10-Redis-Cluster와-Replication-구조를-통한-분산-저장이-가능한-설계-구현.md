@@ -3,7 +3,7 @@ layout: post
 title: "[football] Redis Cluster와 Replication 구조를 통한 분산 저장이 가능한 설계 구현"
 
 categories: f-lab
-tags: f-lab project2
+tags: f-lab 
 ---
 
 ## # 문제점
@@ -35,7 +35,7 @@ Redis Cluster로 구성하게 되면 의도한대로 분산처리 구조를 가�
 
 Replication 구조는 이전 프로젝트에서도 다루었듯이 서버 다운에 대한 위험요소를 즉각적으로 대처할 수 있도록 해줍니다.
 
-> 이전 프로젝트에서 [Replication에 대한 개념을 정리한 글](https://github.com/kimcno3/resume/blob/main/portfolio/project2/troublesShooting/8_replication.md)
+> 이전 프로젝트에서 [Replication에 대한 개념을 정리한 글](https://github.com/kimcno3/resume/blob/main/portfolio//troublesShooting/8_replication.md)
 
 만약 Master 노드 서버가 다운될 경우 Slave 서버가 Master 서버에 대한 데이터를 이어 받고 Master 서버로 대체되어 데이터 처리에 대한 문제가 없도록 구성했습니다.
 

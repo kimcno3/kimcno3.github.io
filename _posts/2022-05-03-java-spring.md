@@ -2,8 +2,8 @@
 layout: post
 title: " Spring 기본 특성"
 
-categories: spring
-tags: spring
+categories: Spring
+tags: Spring
 ---
 
 ### Spring이란?

@@ -3,7 +3,7 @@ layout: post
 title: "[football] @AuthenticationPrincipal을 활용한 로그인 회원 정보 조회"
 
 categories: f-lab
-tags: f-lab project2
+tags: f-lab 
 ---
 
 ## # 문제점

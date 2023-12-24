@@ -3,7 +3,7 @@ layout: post
 title: "[football] 지속적인 Health Check를 활용해 접속 가능 서버 확인이 가능한 설계 구현"
 
 categories: f-lab
-tags:  f-lab project2
+tags:  f-lab 
 published: true
 ---
 

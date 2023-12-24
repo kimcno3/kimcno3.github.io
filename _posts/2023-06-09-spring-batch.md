@@ -2,8 +2,8 @@
 layout: post
 title: Spring Batch
 subheading:
-categories: spring
-tags:  spring
+categories: Spring
+tags:  Spring
 ---
 
 ## 요구사항(문제점)

@@ -3,7 +3,7 @@ layout: post
 title: "[football] Github Actions를 활용한 CI/CD"
 
 categories: f-lab
-tags: f-lab project2
+tags: f-lab 
 ---
 
 ## # 문제점

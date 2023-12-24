@@ -3,7 +3,7 @@ layout: post
 title: "[soldout] DB Replication 적용"
 
 categories: f-lab
-tags: f-lab project1
+tags: f-lab 
 ---
 
 ## # 문제점
